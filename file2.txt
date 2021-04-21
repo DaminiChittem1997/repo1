@@ -1,0 +1,12 @@
+//programming 
+#include<stdio.h>
+#include<coinio.h>
+#include<math.h>
+int main()
+{
+printf("enter the values of a,b);
+scanf("%d%d",&a&b);
+sum=a+b;
+printf("the sum is %d",sum);
+return 0;
+}

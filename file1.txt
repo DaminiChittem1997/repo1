@@ -1,0 +1,8 @@
+//programming in c
+#include<stdio.h>
+int main()
+{
+printf("enter the values a and b");
+scanf("%d%d",&a,&b);
+return 0;
+}
